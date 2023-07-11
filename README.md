@@ -1,2 +1,2 @@
-# Odin-recipes
-Recipes Odin
+# Odin_recipes_1
+Test Odin repositori
